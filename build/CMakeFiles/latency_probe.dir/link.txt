@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\latency_probe.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\latency_probe.dir/objects.a @CMakeFiles\latency_probe.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -O3 -DNDEBUG -flto -Wl,--whole-archive CMakeFiles\latency_probe.dir/objects.a -Wl,--no-whole-archive -o latency_probe.exe -Wl,--out-implib,liblatency_probe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\latency_probe.dir\linkLibs.rsp

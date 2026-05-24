@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/krish/Desktop/NanoMatch/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nanomatch_step1.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -march=native -fno-exceptions -fno-rtti -fno-omit-frame-pointer -O3 -DNDEBUG -flto -o CMakeFiles\\nanomatch_step1.dir\\main.cpp.obj -c C:\\Users\\krish\\Desktop\\NanoMatch\\main.cpp",
+  "file": "C:/Users/krish/Desktop/NanoMatch/main.cpp",
+  "output": "CMakeFiles/nanomatch_step1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/krish/Desktop/NanoMatch/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nanomatch_step2.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -march=native -fno-exceptions -fno-rtti -fno-omit-frame-pointer -O3 -DNDEBUG -flto -o CMakeFiles\\nanomatch_step2.dir\\main_step2.cpp.obj -c C:\\Users\\krish\\Desktop\\NanoMatch\\main_step2.cpp",
+  "file": "C:/Users/krish/Desktop/NanoMatch/main_step2.cpp",
+  "output": "CMakeFiles/nanomatch_step2.dir/main_step2.cpp.obj"
+},
+{
+  "directory": "C:/Users/krish/Desktop/NanoMatch/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nanomatch_step3.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -march=native -fno-exceptions -fno-rtti -fno-omit-frame-pointer -O3 -DNDEBUG -flto -o CMakeFiles\\nanomatch_step3.dir\\main_step3.cpp.obj -c C:\\Users\\krish\\Desktop\\NanoMatch\\main_step3.cpp",
+  "file": "C:/Users/krish/Desktop/NanoMatch/main_step3.cpp",
+  "output": "CMakeFiles/nanomatch_step3.dir/main_step3.cpp.obj"
+},
+{
+  "directory": "C:/Users/krish/Desktop/NanoMatch/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nanomatch_step4.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -march=native -fno-exceptions -fno-rtti -fno-omit-frame-pointer -O3 -DNDEBUG -flto -o CMakeFiles\\nanomatch_step4.dir\\main_step4.cpp.obj -c C:\\Users\\krish\\Desktop\\NanoMatch\\main_step4.cpp",
+  "file": "C:/Users/krish/Desktop/NanoMatch/main_step4.cpp",
+  "output": "CMakeFiles/nanomatch_step4.dir/main_step4.cpp.obj"
+},
+{
+  "directory": "C:/Users/krish/Desktop/NanoMatch/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/nanomatch_step5.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -march=native -fno-exceptions -fno-rtti -fno-omit-frame-pointer -O3 -DNDEBUG -flto -o CMakeFiles\\nanomatch_step5.dir\\main_step5.cpp.obj -c C:\\Users\\krish\\Desktop\\NanoMatch\\main_step5.cpp",
+  "file": "C:/Users/krish/Desktop/NanoMatch/main_step5.cpp",
+  "output": "CMakeFiles/nanomatch_step5.dir/main_step5.cpp.obj"
+},
+{
+  "directory": "C:/Users/krish/Desktop/NanoMatch/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/latency_probe.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -march=native -fno-exceptions -fno-rtti -fno-omit-frame-pointer -O3 -DNDEBUG -flto -o CMakeFiles\\latency_probe.dir\\bench\\latency_probe.cpp.obj -c C:\\Users\\krish\\Desktop\\NanoMatch\\bench\\latency_probe.cpp",
+  "file": "C:/Users/krish/Desktop/NanoMatch/bench/latency_probe.cpp",
+  "output": "CMakeFiles/latency_probe.dir/bench/latency_probe.cpp.obj"
+}
+]
